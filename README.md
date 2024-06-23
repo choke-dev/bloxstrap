@@ -1,5 +1,6 @@
-> [!CAUTION]
-> This is the only official place to download Bloxstrap. Any other websites offering downloads or claiming to be us are not controlled by us.
+> [!WARNING]
+> This is an **UNOFFICIAL** build of Bloxstrap, modified to bring back multiple instance launching.<br>
+> For the official bloxstrap builds, please go to https://github.com/pizzaboxer/bloxstrap.
 
 # <img src="https://github.com/pizzaboxer/bloxstrap/raw/main/Images/Bloxstrap.png" width="48"/> Bloxstrap
 
