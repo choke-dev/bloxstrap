@@ -13,6 +13,12 @@ namespace Bloxstrap.Models
         public bool CheckForUpdates { get; set; } = true;
         public bool CreateDesktopIcon { get; set; } = true;
         public bool ConfirmLaunches { get; set; } = false;
+        public bool MultiInstanceLaunching { get; set; } = false;
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingDefault)]
+        [JsonPropertyName("OhHeyYouFoundMeAgain")]
+        public bool PowerTools { get; set; } = false;
+
         public string Locale { get; set; } = "nil";
         public bool ForceRobloxLanguage { get; set; } = false;
 
