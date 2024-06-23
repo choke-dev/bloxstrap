@@ -867,10 +867,10 @@ Selecting 'No' will ignore this warning and continue installation.</value>
     <value>Allow activity joining</value>
   </data>
   <data name="Menu.Integrations.AllowMultipleInstances.Description" xml:space="preserve">
-    <value>Allows you the ability to launch multiple roblox instances.</value>
+    <value>Allows for having more than one Roblox game client instance open simultaneously.</value>
   </data>
   <data name="Menu.Integrations.AllowMultipleInstances.Title" xml:space="preserve">
-    <value>Allow multiple instances</value>
+    <value>Allow multi-instance launching</value>
   </data>
   <data name="Menu.Integrations.Custom.AppLocation" xml:space="preserve">
     <value>Application Location</value>
