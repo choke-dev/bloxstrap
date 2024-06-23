@@ -2296,7 +2296,25 @@ namespace Bloxstrap.Resources {
                 return ResourceManager.GetString("Menu.Integrations.AllowActivityJoining.Title", resourceCulture);
             }
         }
-        
+
+        /// <summary>
+        ///   Looks up a localized string similar to Allow activity joining.
+        /// </summary>
+        public static string Menu_Integrations_AllowMultipleInstances_Description {
+            get {
+                return ResourceManager.GetString("Menu.Integrations.AllowMultipleInstances.Description", resourceCulture);
+            }
+        }
+
+        /// <summary>
+        ///   Looks up a localized string similar to Allow activity joining.
+        /// </summary>
+        public static string Menu_Integrations_AllowMultipleInstances_Title {
+            get {
+                return ResourceManager.GetString("Menu.Integrations.AllowMultipleInstances.Title", resourceCulture);
+            }
+        }
+ 
         /// <summary>
         ///   Looks up a localized string similar to Application Location.
         /// </summary>
